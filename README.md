@@ -61,3 +61,4 @@ $ open http://localhost:5601/app/kibana
 ```shell
 $ docker-compose exec logstash sh
 ```
+asdf
